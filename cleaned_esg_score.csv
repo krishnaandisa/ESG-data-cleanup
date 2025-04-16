@@ -1,0 +1,431 @@
+symbol,name,sector,industry,employees,total_score,environment_score,governance_score,social_score,controversy_level,controversy_score,risk_percentile,risk_level
+EMN,Eastman Chemical Company,Basic Materials,Specialty Chemicals,14000,25.3,12.8,6.6,5.8,Moderate ,2,50,Medium
+DPZ,Domino's Pizza Inc.,Consumer Cyclical,Restaurants,6500,29.2,10.6,6.3,12.2,Moderate ,2,66,Medium
+DVA,Davita Inc.,Healthcare,Medical Care Facilities,70000,22.6,0.1,8.4,14.1,Moderate ,2,38,Medium
+DRI,"Darden Restaurants, Inc.",Consumer Cyclical,Restaurants,187384,27.5,7.9,4.6,15,Moderate ,2,59,Medium
+UNP,Union Pacific Corp.,Industrials,Railroads,31052,23.5,7.3,5.6,10.6,Moderate ,2,42,Medium
+ZTS,Zoetis Inc.,Healthcare,Drug Manufacturers - Specialty & Generic,14100,18.8,3.2,8.7,6.8,Moderate ,2,23,Low
+ZBH,"Zimmer Biomet Holdings, Inc.",Healthcare,Medical Devices,18000,26,3.6,7.9,14.5,Moderate ,2,53,Medium
+YUM,"Yum! Brands, Inc.",Consumer Cyclical,Restaurants,35000,20.1,4.5,4.1,11.4,Moderate ,2,28,Medium
+XYL,Xylem Inc,Industrials,Specialty Industrial Machinery,23000,18.1,4.3,5.2,8.7,Low ,1,21,Low
+XEL,"Xcel Energy, Inc.",Utilities,Utilities - Regulated Electric,11311,26.5,12.7,4.5,9.3,Moderate ,2,55,Medium
+WYNN,Wynn Resorts Ltd,Consumer Cyclical,Resorts & Casinos,27800,25.7,3.4,10.6,11.8,Moderate ,2,52,Medium
+WTW,Willis Towers Watson Public Limited Companys,Financial Services,Insurance Brokers,48000,18.7,0.1,10.8,7.8,Moderate ,2,23,Low
+WMB,Williams Companies Inc.,Energy,Oil & Gas Midstream,5601,21.8,8.7,3,10.1,Moderate ,2,35,Medium
+WY,Weyerhaeuser Company,Real Estate,REIT - Specialty,9300,16.7,9.1,3.5,4.2,Moderate ,2,16,Low
+WDC,Western Digital Corp.,Technology,Computer Hardware,53000,11.4,1.5,6.1,3.9,Moderate ,2,4,Low
+WELL,Welltower Inc.,Real Estate,REIT - Healthcare Facilities,533,13.2,4.2,5.5,3.5,Low ,1,7,Low
+WFC,Wells Fargo & Co.,Financial Services,Banks - Diversified,224824,36.2,2,19.4,14.8,Severe ,5,87,High
+WEC,"Wec Energy Group, Inc.",Utilities,Utilities - Regulated Electric,7000,27.5,13.4,5.1,9,Low ,1,59,Medium
+WAT,Waters Corp,Healthcare,Diagnostics & Research,7900,14.6,1.4,5.1,8.2,None ,,10,Low
+WM,"Waste Management, Inc.",Industrials,Waste Management,48000,16.6,8.1,3.3,5.2,Moderate ,2,16,Low
+WMT,Walmart Inc.,Consumer Defensive,Discount Stores,2100000,25.3,5.9,7.1,12.4,Significant ,3,50,Medium
+ULTA,"Ulta Beauty, Inc.",Consumer Cyclical,Specialty Retail,20000,15.6,4.1,4.3,7.3,Moderate ,2,13,Low
+WBA,"Walgreens Boots Alliance, Inc",Healthcare,Pharmaceutical Retailers,330000,16.3,1.8,5.2,9.3,Significant ,3,15,Low
+WAB,Wabtec Inc.,Industrials,Railroads,29000,23.3,5.4,6,12,Moderate ,2,42,Medium
+GWW,"W.W. Grainger, Inc.",Industrials,Industrial Distribution,23200,16,4.5,5.9,5.6,Moderate ,2,14,Low
+WRB,W.R. Berkley Corporation,Financial Services,Insurance - Property & Casualty,8329,21.8,2,11.9,7.9,Low ,1,35,Medium
+VMC,Vulcan Materials Company,Basic Materials,Building Materials,10961,29.3,13.4,9.1,6.8,Moderate ,2,66,Medium
+V,Visa Inc.,Financial Services,Credit Services,,16.7,1.8,6.7,8.2,Significant ,3,16,Low
+VRTX,Vertex Pharmaceuticals Inc,Healthcare,Biotechnology,5400,22.7,0.8,6.6,15.4,Moderate ,2,39,Medium
+UDR,"Udr, Inc.",Real Estate,REIT - Residential,1397,13.9,3.7,6.3,3.9,Low ,1,9,Low
+VZ,Verizon Communications,Communication Services,Telecom Services,104400,18.7,3.7,5.4,9.6,Significant ,3,23,Low
+VRSK,"Verisk Analytics, Inc.",Industrials,Consulting Services,7500,17.5,0.1,5,12.5,Low ,1,19,Low
+VRSN,Verisign Inc,Technology,Software - Infrastructure,907,21.3,4.7,5.8,10.8,Low ,1,33,Medium
+VTR,"Ventas, Inc.",Real Estate,REIT - Healthcare Facilities,486,12.9,3.4,5.6,3.9,None ,,6,Low
+VLO,Valero Energy Corporation,Energy,Oil & Gas Refining & Marketing,9886,32.6,20.1,5,7.4,Moderate ,2,77,High
+UHS,"Universal Health Services, Inc. Class B",Healthcare,Medical Care Facilities,96700,33,3.7,8.6,20.7,Significant ,3,78,High
+UNH,Unitedhealth Group Incorporated,Healthcare,Healthcare Plans,440000,15.3,0,5.6,9.7,Significant ,3,12,Low
+URI,"United Rentals, Inc.",Industrials,Rental & Leasing Services,26650,16.9,5.3,5.4,6.1,Low ,1,17,Low
+UPS,"United Parcel Service, Inc. Class B",Industrials,Integrated Freight & Logistics,500000,18.6,4.2,5.5,8.9,Moderate ,2,23,Low
+UAL,"United Airlines Holdings, Inc.",Industrials,Airlines,104500,28.6,10.8,5,12.8,Moderate ,2,64,Medium
+USB,U.S. Bancorp,Financial Services,Banks - Regional,70000,30.3,1.8,13,15.5,Significant ,3,70,High
+TSN,"Tyson Foods, Inc.",Consumer Defensive,Farm Products,139000,35.9,14,9.5,12.4,High ,4,85,High
+TRMB,Trimble Inc.,Technology,Scientific & Technical Instruments,12700,12.4,3.8,5.2,3.4,None ,,6,Low
+TDG,Transdigm Group Incorporated,Industrials,Aerospace & Defense,15500,38.7,12,9,17.7,Moderate ,2,90,High
+TT,Trane Technologies Plc,Industrials,Building Products & Equipment,40000,15.2,4.4,5.1,5.7,Moderate ,2,12,Low
+TSCO,Tractor Supply Co,Consumer Cyclical,Specialty Retail,50000,16.1,3.4,4.5,8.2,Moderate ,2,14,Low
+TJX,"Tjx Companies, Inc.",Consumer Cyclical,Apparel Retail,349000,14.4,1.9,4.8,7.7,Moderate ,2,10,Low
+TMO,"Thermo Fisher Scientific, Inc.",Healthcare,Diagnostics & Research,122000,12.8,1.4,6.5,4.9,Significant ,3,6,Low
+DIS,The Walt Disney Company,Communication Services,Entertainment,173250,15.7,0,6.7,9,Moderate ,2,13,Low
+TRV,"The Travelers Companies, Inc.",Financial Services,Insurance - Property & Casualty,32967,20.3,1,10,9.3,Low ,1,29,Medium
+SO,The Southern Company,Utilities,Utilities - Regulated Electric,27819,33,14.7,7.3,11,Moderate ,2,78,High
+SHW,The Sherwin-Williams Company,Basic Materials,Specialty Chemicals,64088,29.4,14.3,5.8,9.2,Moderate ,2,66,Medium
+MOS,The Mosaic Company,Basic Materials,Agricultural Inputs,14049,33.5,13.9,8.6,11.1,Moderate ,2,80,High
+KR,The Kroger Co.,Consumer Defensive,Grocery Stores,414000,21.3,6.6,5.6,9.1,Significant ,3,33,Medium
+KHC,The Kraft Heinz Company,Consumer Defensive,Packaged Foods,36000,33.7,13.5,6.2,14.1,Significant ,3,80,High
+SJM,The J.M. Smucker Company,Consumer Defensive,Packaged Foods,5800,30.5,12.9,5.6,12,Moderate ,2,71,High
+IPG,"The Interpublic Group of Companies, Inc.",Communication Services,Advertising Agencies,56800,10.3,0,5.3,5,Low ,1,3,Low
+HSY,The Hershey Company,Consumer Defensive,Confectioners,18650,26,10.5,5.1,10.4,Significant ,3,53,Medium
+HIG,"The Hartford Financial Services Group, Inc.",Financial Services,Insurance - Property & Casualty,18700,16.6,1.8,7.6,7.2,Low ,1,16,Low
+EL,The Estee Lauder Companies Inc. Class A,Consumer Defensive,Household & Personal Products,44020,25.5,6.9,7.5,11.1,Moderate ,2,51,Medium
+COO,"The Cooper Companies, Inc.",Healthcare,Medical Instruments & Supplies,15000,17.5,2.7,6,8.8,Moderate ,2,19,Low
+CI,The Cigna Group,Healthcare,Healthcare Plans,70325,11.6,0,5.7,6,Moderate ,2,3,Low
+SCHW,The Charles Schwab Corporation,Financial Services,Capital Markets,32600,23.3,2.4,11.9,8.9,Moderate ,2,41,Medium
+ALL,The Allstate Corporation,Financial Services,Insurance - Property & Casualty,53000,22,1,10.9,10.1,Moderate ,2,36,Medium
+TXT,"Textron, Inc.",Industrials,Aerospace & Defense,35000,33.6,10.9,6.6,16.1,Moderate ,2,80,High
+TXN,Texas Instruments Incorporated,Technology,Semiconductors,34000,20.6,7.8,6.9,6,Moderate ,2,30,Medium
+TSLA,"Tesla, Inc.",Consumer Cyclical,Auto Manufacturers,140473,25.2,3.3,7.8,14.1,Significant ,3,50,Medium
+TER,"Teradyne, Inc.",Technology,Semiconductor Equipment & Materials,6600,17,7.1,5,4.9,None ,,17,Low
+TFX,Teleflex Incorporated,Healthcare,Medical Instruments & Supplies,14500,29.6,4.8,8.7,16.1,Moderate ,2,67,Medium
+TEL,Te Connectivity Ltd,Technology,Electronic Components,85000,14.8,5.8,4.6,4.4,None ,,11,Low
+TGT,Target Corporation,Consumer Defensive,Discount Stores,415000,14.4,1.9,4.9,7.6,Significant ,3,10,Low
+TRGP,Targa Resources Corp.,Energy,Oil & Gas Midstream,3182,33.2,14.2,4.2,14.8,Moderate ,2,79,High
+TPR,"Tapestry, Inc.",Consumer Cyclical,Luxury Goods,12600,14.8,1.1,5.2,8.6,Moderate ,2,11,Low
+TMUS,"T-Mobile Us, Inc.",Communication Services,Telecom Services,67000,24.6,4.2,7.1,13.4,Significant ,3,47,Medium
+TROW,T Rowe Price Group Inc,Financial Services,Asset Management,7878,16.9,2.4,5.6,8.9,Low ,1,17,Low
+SYY,Sysco Corporation,Consumer Defensive,Food Distribution,72000,15.9,5.4,4.5,6.1,Moderate ,2,14,Low
+SNPS,Synopsys Inc,Technology,Software - Infrastructure,20300,14.4,3.3,4.2,6.9,None ,,10,Low
+SYF,Synchrony Financial,Financial Services,Credit Services,20000,17.3,0.1,7.3,9.9,Moderate ,2,18,Low
+SYK,Stryker Corporation,Healthcare,Medical Devices,52000,28.3,4,11,13.2,Moderate ,2,62,Medium
+STLD,Steel Dynamics Inc,Basic Materials,Steel,12600,33,10.6,8.1,14.4,Low ,1,78,High
+STT,State Street Corporation,Financial Services,Asset Management,45871,24.1,1.6,9.5,12.9,Low ,1,45,Medium
+SBUX,Starbucks Corp,Consumer Cyclical,Restaurants,381000,24.7,5.8,4.3,14.6,Significant ,3,48,Medium
+SWK,"Stanley Black & Decker, Inc.",Industrials,Tools & Accessories,50000,25.3,5,7.8,12.5,Moderate ,2,50,Medium
+LUV,Southwest Airlines Co.,Industrials,Airlines,74695,30.7,11,5.9,13.7,Moderate ,2,71,High
+SNA,Snap-on Incorporated,Industrials,Tools & Accessories,13200,30.5,9,7.6,13.9,Moderate ,2,71,High
+SWKS,Skyworks Solutions Inc,Technology,Semiconductors,9750,28,11.8,7.2,8.9,Low ,1,61,Medium
+SPG,"Simon Property Group, Inc.",Real Estate,REIT - Retail,2500,14,3.8,6.2,4,Low ,1,9,Low
+NOW,"Servicenow, Inc.",Technology,Software - Application,22668,16.6,4,6.6,6,None ,,16,Low
+SRE,Sempra,Utilities,Utilities - Diversified,16835,23.6,10.9,4.9,7.8,Moderate ,2,43,Medium
+STX,Seagate Technology Holdings Plcs,Technology,Computer Hardware,33400,10.7,1.6,5.3,3.8,Low ,1,2,Low
+SLB,Schlumberger Limited,Energy,Oil & Gas Equipment & Services,111000,20.3,8.1,5.9,6.3,Low ,1,29,Medium
+SBAC,Sba Communications Corp,Real Estate,REIT - Specialty,1787,11.6,3.1,5.2,3.2,None ,,4,Low
+CRM,"Salesforce, Inc.",Technology,Software - Application,72682,14.9,2,5.4,7.5,Low ,1,11,Low
+SPGI,S&p Global Inc.,Financial Services,Financial Data & Stock Exchanges,40450,13,0,6.8,6.2,Low ,1,7,Low
+RCL,Royal Caribbean Group,Consumer Cyclical,Travel Services,98100,20.7,8.1,4.9,7.7,Significant ,3,31,Medium
+ROST,Ross Stores Inc,Consumer Cyclical,Apparel Retail,108000,18.2,1.8,5.7,10.8,Moderate ,2,21,Low
+ROP,"Roper Technologies, Inc.",Technology,Software - Application,16800,20.4,4.7,6.1,9.7,None ,,30,Medium
+ROL,"Rollins, Inc.",Consumer Cyclical,Personal Services,19000,19.3,1.8,6.9,10.6,Low ,1,26,Low
+ROK,"Rockwell Automation, Inc.",Industrials,Specialty Industrial Machinery,29000,17.7,5.4,5.7,6.6,Moderate ,2,19,Low
+RHI,Robert Half Inc.,Industrials,Staffing & Employment Services,15000,10.9,0.1,3.4,7.4,Low ,1,3,Low
+RVTY,"Revvity, Inc.",Healthcare,Diagnostics & Research,11000,16.7,0.8,5.8,10.1,Moderate ,2,16,Low
+RMD,Resmed Inc.,Healthcare,Medical Instruments & Supplies,,26.4,3.5,10.4,12.4,Low ,1,55,Medium
+RSG,Republic Services Inc.,Industrials,Waste Management,41000,20.9,11.2,3.7,6,Significant ,3,31,Medium
+RF,Regions Financial Corp.,Financial Services,Banks - Regional,20101,16.9,1.8,8.4,6.7,Moderate ,2,17,Low
+REGN,Regeneron Pharmaceuticals Inc,Healthcare,Biotechnology,13677,18,0.3,6.7,11,Moderate ,2,21,Low
+REG,Regency Centers Corporation,Real Estate,REIT - Retail,492,11.7,3.7,4.8,3.2,None ,,5,Low
+O,Realty Income Corporation,Real Estate,REIT - Retail,418,15.5,4.4,5.7,5.3,Moderate ,2,13,Low
+RJF,"Raymond James Financial, Inc.",Financial Services,Capital Markets,18000,27,2.3,13.4,11.2,Moderate ,2,57,Medium
+RL,Ralph Lauren Corporation,Consumer Cyclical,Apparel Manufacturing,14800,14.6,1.2,5.6,7.8,Moderate ,2,10,Low
+DGX,Quest Diagnostics Inc.,Healthcare,Diagnostics & Research,50000,21.2,0.1,8,13.1,Significant ,3,33,Medium
+PWR,"Quanta Services, Inc.",Industrials,Engineering & Construction,52500,36.9,12.1,9,15.7,Moderate ,2,88,High
+QCOM,Qualcomm Inc,Technology,Semiconductors,50000,15.4,5.3,5.6,4.5,Significant ,3,12,Low
+QRVO,"Qorvo, Inc.",Technology,Semiconductors,8700,28.5,12.3,7.7,8.5,None ,,63,Medium
+PHM,"Pultegroup, Inc.",Consumer Cyclical,Residential Construction,6382,21.4,9.2,4.9,7.3,Moderate ,2,34,Medium
+PSA,Public Storage,Real Estate,REIT - Industrial,6200,13.1,4.7,5.7,2.6,Low ,1,7,Low
+PEG,Public Service Enterprise Group Incorporated,Utilities,Utilities - Regulated Electric,12543,27.2,12.5,5.5,9.3,Moderate ,2,58,Medium
+PTC,"Ptc, Inc",Technology,Software - Application,7438,18.9,4.9,5.4,8.6,None ,,24,Low
+PRU,"Prudential Financial, Inc.",Financial Services,Insurance - Life,40366,19.9,0.6,9.3,10,Low ,1,28,Low
+PLD,"Prologis, Inc.",Real Estate,REIT - Industrial,2574,10.3,2.7,5,2.5,Low ,1,3,Low
+PGR,Progressive Corporation,Financial Services,Insurance - Property & Casualty,61432,20,1.5,10.1,8.5,Moderate ,2,28,Medium
+PG,Procter & Gamble Company,Consumer Defensive,Household & Personal Products,107000,28.6,9.6,6.7,12.2,Significant ,3,63,Medium
+PFG,"Principal Financial Group, Inc.",Financial Services,Asset Management,19800,14.2,0.8,7.6,5.8,Low ,1,9,Low
+PPL,Ppl Corporation,Utilities,Utilities - Regulated Electric,6629,31.3,17.1,5.3,8.9,Moderate ,2,74,High
+PPG,"Ppg Industries, Inc.",Basic Materials,Specialty Chemicals,50000,25.2,11,6.5,7.7,Moderate ,2,50,Medium
+PNC,Pnc Financial Services Group,Financial Services,Banks - Regional,54441,26.1,1.9,10.8,13.3,Significant ,3,53,Medium
+PNW,Pinnacle West Capital Corporation,Utilities,Utilities - Regulated Electric,6133,30.8,14.7,5.8,10.2,Low ,1,72,High
+PSX,Phillips 66,Energy,Oil & Gas Refining & Marketing,14000,35.4,20.8,5.8,8.8,Significant ,3,84,High
+PM,Philip Morris International Inc.,Consumer Defensive,Tobacco,82700,28.5,3.4,11.5,13.5,Significant ,3,63,Medium
+PCG,Pg&e Corporation,Utilities,Utilities - Regulated Electric,28010,30.4,9.6,5.4,15.4,High ,4,70,High
+PFE,Pfizer Inc.,Healthcare,Drug Manufacturers - General,88000,24.6,2.1,9.6,12.9,Significant ,3,47,Medium
+PEP,"Pepsico, Inc.",Consumer Defensive,Beverages - Non-Alcoholic,318000,22.1,7.3,5.2,9.6,Significant ,3,36,Medium
+PNR,Pentair Plc,Industrials,Specialty Industrial Machinery,10500,22.1,6,6.1,10,Low ,1,36,Medium
+PYPL,"Paypal Holdings, Inc.",Financial Services,Credit Services,27200,17.8,2.8,5.8,9.2,Moderate ,2,20,Low
+PAYX,Paychex Inc,Industrials,Staffing & Employment Services,16000,16.7,3.2,6.4,7.2,Low ,1,16,Low
+PH,Parker-Hannifin Corporation,Industrials,Specialty Industrial Machinery,62730,29.5,9.5,6.2,13.8,Moderate ,2,67,Medium
+PARA,Paramount Global Class B,Communication Services,Entertainment,21900,15,0.1,7.4,7.5,Significant ,3,11,Low
+PANW,"Palo Alto Networks, Inc.",Technology,Software - Infrastructure,15166,13.9,0.7,5.6,7.6,Low ,1,9,Low
+PKG,Packaging Corp of America,Consumer Cyclical,Packaging & Containers,14900,18.6,14,3.6,1.1,Low ,1,23,Low
+PCAR,Paccar Inc,Industrials,Farm & Heavy Construction Machinery,32400,27.6,8.4,8.3,11,Significant ,3,60,Medium
+ORCL,Oracle Corp,Technology,Software - Infrastructure,164000,13.9,0.5,5.6,7.8,Moderate ,2,9,Low
+OKE,"Oneok, Inc.",Energy,Oil & Gas Midstream,4775,25.1,10.8,3.3,11,Low ,1,50,Medium
+ON,On Semiconductor Corp,Technology,Semiconductors,30000,22.4,11.8,4.9,5.7,Low ,1,38,Medium
+OMC,Omnicom Group Inc.,Communication Services,Advertising Agencies,75900,16.3,0.1,6.9,9.3,Low ,1,15,Low
+OXY,Occidental Petroleum Corporation,Energy,Oil & Gas E&P,12570,41.7,25,7,9.7,Moderate ,2,93,Severe
+ORLY,"O''reilly Automotive, Inc.",Consumer Cyclical,Specialty Retail,90601,12.1,0.1,3.8,8.1,Low ,1,5,Low
+NXPI,Nxp Semiconductors N.v.,Technology,Semiconductors,34200,19.8,8.6,5.8,5.4,Low ,1,27,Low
+NVR,"Nvr, Inc.",Consumer Cyclical,Residential Construction,6300,20.3,7.2,5.2,7.8,Low ,1,29,Medium
+NVDA,Nvidia Corp,Technology,Semiconductors,29600,13.6,2.3,6.3,4.9,Moderate ,2,8,Low
+NUE,Nucor Corporation,Basic Materials,Steel,32000,32.8,9.3,8.8,14.7,Moderate ,2,78,High
+NRG,"Nrg Energy, Inc.",Utilities,Utilities - Independent Power Producers,18131,32,16.8,5.7,9.5,Moderate ,2,75,High
+NCLH,Norwegian Cruise Line Holdings Ltd.s,Consumer Cyclical,Travel Services,41000,25.9,9,6.1,10.9,Moderate ,2,53,Medium
+NOC,Northrop Grumman Corp.,Industrials,Aerospace & Defense,101000,27.5,7.8,5.4,14.4,Moderate ,2,59,Medium
+NTRS,Northern Trust Corp,Financial Services,Asset Management,23000,23.9,1.9,10.2,11.8,Moderate ,2,44,Medium
+NSC,Norfolk Southern Corp.,Industrials,Railroads,20700,23.9,8,5.4,10.5,Significant ,3,44,Medium
+NDSN,Nordson Corp,Industrials,Specialty Industrial Machinery,7700,24.9,8.2,5.1,11.6,Low ,1,49,Medium
+NI,Nisource Inc.,Utilities,Utilities - Regulated Gas,7364,26,12,4.9,9.2,Significant ,3,53,Medium
+NKE,"Nike, Inc.",Consumer Cyclical,Footwear & Accessories,83700,19.6,3,6.7,10,Significant ,3,27,Low
+NEE,"Nextra Energy, Inc.",Utilities,Utilities - Regulated Electric,16800,23.3,9.4,5.6,8.3,Moderate ,2,41,Medium
+NWSA,News Corporation Class A,Communication Services,Entertainment,25000,11.5,0,6.7,4.7,Moderate ,2,4,Low
+NEM,Newmont Corporation,Basic Materials,Gold,21700,20.5,7.1,5.2,8.2,Significant ,3,30,Medium
+NFLX,Netflix Inc,Communication Services,Entertainment,13000,16.4,0.1,9,7.3,Moderate ,2,15,Low
+NTAP,"Netapp, Inc",Technology,Computer Hardware,,15.4,2.2,5.5,7.7,Low ,1,12,Low
+NDAQ,"Nasdaq, Inc.",Financial Services,Financial Data & Stock Exchanges,8568,13.1,0,7.4,5.6,Low ,1,7,Low
+MSCI,"Msci, Inc.",Financial Services,Financial Data & Stock Exchanges,5858,16.3,1.6,7.7,7,Low ,1,15,Low
+MSI,"Motorola Solutions, Inc.",Technology,Communication Equipment,21000,13.1,2.3,5.8,5.1,Low ,1,7,Low
+MS,Morgan Stanley,Financial Services,Capital Markets,80000,24.6,1.1,10.5,12.9,Moderate ,2,47,Medium
+MCO,Moody's Corporation,Financial Services,Financial Data & Stock Exchanges,15439,15.8,1.6,8.1,6.1,Moderate ,2,14,Low
+CMCSA,Comcast Corp,Communication Services,Telecom Services,186000,23.1,4,8.2,10.9,Moderate ,2,41,Medium
+MNST,Monster Beverage Corporation,Consumer Defensive,Beverages - Non-Alcoholic,5254,29.2,12.1,5.1,12,Moderate ,2,66,Medium
+MDLZ,"Mondelez International, Inc. Class A",Consumer Defensive,Confectioners,91000,22,7.2,5.4,9.4,Significant ,3,36,Medium
+TAP,Molson Coors Beverage Company Class B,Consumer Defensive,Beverages - Brewers,16500,21.4,7.3,5.5,8.6,Moderate ,2,33,Medium
+MHK,"Mohawk Industries, Inc.",Consumer Cyclical,"Furnishings, Fixtures & Appliances",43300,14.1,5.8,4.2,4.2,Moderate ,2,9,Low
+MAA,"Mid-America Apartment Communities, Inc.",Real Estate,REIT - Residential,2427,13.1,3.9,6.3,3,Low ,1,7,Low
+MSFT,Microsoft Corp,Technology,Software - Infrastructure,221000,15.1,1.5,6.1,7.5,Significant ,3,11,Low
+MU,"Micron Technology, Inc.",Technology,Semiconductors,43000,18.2,7.2,5.5,5.5,Moderate ,2,21,Low
+MCHP,Microchip Technology Inc,Technology,Semiconductors,22300,31.8,15.3,7.4,9.2,Low ,1,75,High
+MGM,Mgm Resorts International,Consumer Cyclical,Resorts & Casinos,58000,24.8,1.3,10.5,13,Moderate ,2,48,Medium
+MTD,Mettler-Toledo International,Healthcare,Diagnostics & Research,16000,13.1,1,4.7,7.4,None ,,7,Low
+MET,"Metlife, Inc.",Financial Services,Insurance - Life,45000,16.4,0.7,8.8,7,Moderate ,2,15,Low
+META,"Meta Platforms, Inc. Class A",Communication Services,Internet Content & Information,69329,34.1,2.7,10.3,21.1,High ,4,81,High
+MRK,"Merck & Co., Inc.",Healthcare,Drug Manufacturers - General,70000,21.4,1.9,8.9,10.6,Significant ,3,34,Medium
+MDT,Medtronic Plc,Healthcare,Medical Devices,95000,22.8,1.8,7.6,13.4,Significant ,3,39,Medium
+MCK,Mckesson Corporation,Healthcare,Medical Distribution,45000,15.2,1.6,6.3,7.3,Significant ,3,12,Low
+MCD,Mcdonald's Corporation,Consumer Cyclical,Restaurants,100000,26,7.6,5.8,12.6,Significant ,3,53,Medium
+MKC,"Mccormick & Company, Incorporated Non-Vtg Cs",Consumer Defensive,Packaged Foods,13800,26.1,9.6,5.3,11.1,Moderate ,2,53,Medium
+MA,Mastercard Incorporated,Financial Services,Credit Services,33400,17.1,2.2,8.3,6.7,High ,4,17,Low
+MAS,Masco Corporation,Industrials,Building Products & Equipment,18000,22.2,9.7,6.8,5.6,Low ,1,37,Medium
+MLM,Martin Marietta Materials,Basic Materials,Building Materials,9400,30.1,16.7,8.7,4.8,Moderate ,2,69,High
+MMC,"Marsh & Mclennan Companies, Inc.",Financial Services,Insurance Brokers,85000,21.1,0.1,9.7,11.3,Moderate ,2,32,Medium
+MAR,Marriot International Class A,Consumer Cyclical,Lodging,411000,21.4,8.6,3.7,9.2,Significant ,3,34,Medium
+MPC,Marathon Petroleum Corporation,Energy,Oil & Gas Refining & Marketing,18200,30.5,17.1,5.3,8.1,Significant ,3,71,High
+MRO,Marathon Oil Corporation,Energy,Oil & Gas E&P,1681,37.7,21.1,7.6,9.1,Moderate ,2,89,High
+MTB,M&t Bank Corp.,Financial Services,Banks - Regional,21927,26.5,2.6,13.6,10.3,Low ,1,55,Medium
+LYB,Lyondellbasell Industries N.v. Class A,Basic Materials,Specialty Chemicals,20000,20.7,13.5,5.1,2.1,Moderate ,2,31,Medium
+LULU,Lululemon Athletica Inc.,Consumer Cyclical,Apparel Retail,38000,16.9,1.6,5.5,9.9,Moderate ,2,17,Low
+LOW,Lowe's Companies Inc.,Consumer Cyclical,Home Improvement Retail,300000,11.8,3.3,3.2,5.3,Moderate ,2,5,Low
+L,Loews Corporation,Financial Services,Insurance - Property & Casualty,12280,16.4,0.6,11.5,4.3,Moderate ,2,15,Low
+LMT,Lockheed Martin Corp.,Industrials,Aerospace & Defense,122000,30.2,8,7.1,15.1,Significant ,3,70,High
+LKQ,Lkq Corporation,Consumer Cyclical,Auto Parts,49000,11.1,3.8,3.3,4,Moderate ,2,4,Low
+LEN,Lennar Corporation Class A,Consumer Cyclical,Residential Construction,12284,25.4,11.3,5.6,8.6,Moderate ,2,51,Medium
+LDOS,"Leidos Holdings, Inc.",Technology,Information Technology Services,47000,17.6,3.4,5.3,9,Moderate ,2,19,Low
+LVS,Las Vegas Sands Corp.,Consumer Cyclical,Resorts & Casinos,38400,18.7,2.3,8.7,7.7,Moderate ,2,23,Low
+LRCX,Lam Research Corp,Technology,Semiconductor Equipment & Materials,17200,13.6,4.5,5.1,4,Low ,1,8,Low
+LH,Labcorp Holdings Inc.,Healthcare,Diagnostics & Research,67000,19.7,0.4,6.6,12.7,Moderate ,2,27,Low
+KLAC,Kla Corporation,Technology,Semiconductor Equipment & Materials,15000,17.2,7.4,4.6,5.1,None ,,18,Low
+KMI,"Kinder Morgan, Inc.",Energy,Oil & Gas Midstream,10891,19,8.3,3.5,7.2,Moderate ,2,24,Low
+KIM,Kimco Realty Corp.,Real Estate,REIT - Retail,660,10.9,2.3,6,2.6,None ,,4,Low
+KMB,Kimberly-Clark Corp.,Consumer Defensive,Household & Personal Products,41000,28.5,10.4,7.6,10.4,Moderate ,2,63,Medium
+KEYS,"Keysight Technologies, Inc.",Technology,Scientific & Technical Instruments,15400,7.6,1.2,4.7,1.8,Low ,1,1,Negligible
+KEY,Keycorp,Financial Services,Banks - Regional,16752,21.4,1.6,10.7,9.2,Low ,1,34,Medium
+K,Kellanova,Consumer Defensive,Packaged Foods,23000,28.4,10.6,4.4,13.4,Moderate ,2,63,Medium
+JNPR,Juniper Networks Inc,Technology,Communication Equipment,11144,14.8,1.8,5.8,7.2,Low ,1,11,Low
+JPM,Jpmorgan Chase & Co.,Financial Services,Banks - Diversified,311921,29.3,1.1,11.7,16.5,Significant ,3,66,Medium
+JCI,Johnson Controls International Plc,Industrials,Building Products & Equipment,100000,14.4,4.5,5.4,4.6,Significant ,3,10,Low
+JNJ,Johnson & Johnson,Healthcare,Drug Manufacturers - General,131900,24,0.9,8,15,High ,4,45,Medium
+JBHT,Jb Hunt Transport Services Inc,Industrials,Integrated Freight & Logistics,34718,14.8,3.3,5,6.6,Low ,1,11,Low
+J,Jacobs Solutions Inc.,Industrials,Engineering & Construction,60000,22.4,5.3,5.6,11.5,Significant ,3,34,Medium
+IRM,Iron Mountain Inc.,Real Estate,REIT - Specialty,27000,14.5,5,5.8,3.7,Moderate ,2,10,Low
+IQV,Iqvia Holdings Inc.,Healthcare,Diagnostics & Research,87000,19.1,1.3,7.2,10.6,Moderate ,2,25,Low
+IVZ,Invesco Ltd,Financial Services,Asset Management,8527,22.8,0.7,11,11,Moderate ,2,39,Medium
+ISRG,Intuitive Surgical Inc.,Healthcare,Medical Instruments & Supplies,13676,21.1,3.7,7.8,9.6,Low ,1,32,Medium
+INTU,Intuit Inc,Technology,Software - Application,18200,16.4,1,4.7,10.7,Moderate ,2,15,Low
+IP,International Paper Co.,Consumer Cyclical,Packaging & Containers,39000,24.5,15.1,4.8,4.5,Significant ,3,47,Medium
+IFF,International Flavors & Fragrances Inc.,Basic Materials,Specialty Chemicals,21500,22.7,10.5,6.6,5.6,Significant ,3,39,Medium
+IBM,International Business Machines Corporation,Technology,Information Technology Services,282200,14.1,1.8,6.1,6.2,Moderate ,2,9,Low
+ICE,Intercontinental Exchange Inc.,Financial Services,Financial Data & Stock Exchanges,13226,19.8,1.7,8.8,9.3,Low ,1,27,Low
+INTC,Intel Corp,Technology,Semiconductors,130700,18.9,4.9,6.6,7.3,Significant ,3,24,Low
+INCY,Incyte Genomics Inc,Healthcare,Biotechnology,2524,24.8,1.1,7.4,16.3,Low ,1,48,Medium
+ILMN,Illumina Inc,Healthcare,Diagnostics & Research,10590,18.6,0.1,6.9,11.6,Significant ,3,23,Low
+ITW,Illinois Tool Works Inc.,Industrials,Specialty Industrial Machinery,45000,25.3,7,6.5,11.8,Moderate ,2,50,Medium
+IDXX,Idexx Laboratories Inc,Healthcare,Diagnostics & Research,11000,18.7,2.6,8.9,7.1,Low ,1,23,Low
+IEX,Idex Corporation,Industrials,Specialty Industrial Machinery,8800,29.3,10.3,5.3,13.7,None ,,66,Medium
+HBAN,Huntington Bancshares Inc,Financial Services,Banks - Regional,19719,21.8,2,8.7,11.2,Moderate ,2,35,Medium
+HUM,Humana Inc.,Healthcare,Healthcare Plans,67600,22.5,0,5.7,16.7,Moderate ,2,38,Medium
+HUBB,Hubbell Incorporated,Industrials,Electrical Equipment & Parts,18400,19.6,5.6,4.9,9.1,None ,,27,Low
+HPQ,Hp Inc.,Technology,Computer Hardware,58000,11.3,0.1,6.1,5.1,Moderate ,2,4,Low
+HST,"Host Hotels & Resorts, Inc.",Real Estate,REIT - Hotel & Motel,163,13.4,3.3,5.5,4.6,Low ,1,7,Low
+HRL,Hormel Foods Corporation,Consumer Defensive,Packaged Foods,20000,30,13.3,6,10.7,Significant ,3,69,Medium
+HON,"Honeywell International, Inc.",Industrials,Conglomerates,95000,28.6,11,7,10.6,Significant ,3,64,Medium
+HD,"Home Depot, Inc.",Consumer Cyclical,Home Improvement Retail,465000,12.6,3.3,3.8,5.6,Moderate ,2,6,Low
+HOLX,Hologic Inc,Healthcare,Medical Instruments & Supplies,6990,25,4.6,8.4,12.1,Low ,1,49,Medium
+HLT,Hilton Worldwide Holdings Inc.,Consumer Cyclical,Lodging,178000,17.6,6.1,4.4,7,Moderate ,2,19,Low
+HPE,Hewlett Packard Enterprise Company,Technology,Communication Equipment,62000,10.7,0.9,5.6,4.1,Moderate ,2,3,Low
+HES,Hess Corporation,Energy,Oil & Gas E&P,1756,33.1,18.9,7,7.2,Moderate ,2,79,High
+HSIC,Henry Schein Inc,Healthcare,Medical Distribution,25000,13.9,2,6.3,5.7,Moderate ,2,9,Low
+JKHY,Henry (Jack) & Associates,Technology,Information Technology Services,7120,18.7,4.3,5.7,8.7,None ,,23,Low
+HCA,"Hca Healthcare, Inc.",Healthcare,Medical Care Facilities,220000,28.8,3.9,7.2,17.7,Significant ,3,64,Medium
+HAS,"Hasbro, Inc.",Consumer Cyclical,Leisure,5502,7.1,0,4.2,2.9,Moderate ,2,1,Negligible
+HAL,Halliburton Company,Energy,Oil & Gas Equipment & Services,49000,25.6,9.8,6.9,8.9,Moderate ,2,52,Medium
+GS,Goldman Sachs Group Inc.,Financial Services,Capital Markets,44400,25.5,0.9,11.8,12.8,Moderate ,2,51,Medium
+GL,Globe Life Inc.,Financial Services,Insurance - Life,3636,20.4,1.6,10.5,8.3,Moderate ,2,29,Medium
+GPN,"Global Payments, Inc.",Industrials,Specialty Business Services,27000,20.9,3.7,6.5,10.7,Low ,1,31,Medium
+GILD,Gilead Sciences Inc,Healthcare,Drug Manufacturers - General,18000,23,1,7.6,14.3,Moderate ,2,40,Medium
+GPC,Genuine Parts Company,Consumer Cyclical,Auto Parts,60000,13.7,4.7,3.8,5.2,Moderate ,2,8,Low
+GM,General Motors Company,Consumer Cyclical,Auto Manufacturers,163000,28.5,9.8,7.2,11.5,High ,4,63,Medium
+GIS,"General Mills, Inc.",Consumer Defensive,Packaged Foods,34000,21.1,8.3,4.1,8.7,Moderate ,2,32,Medium
+GE,General Electric Company,Industrials,Aerospace & Defense,125000,40.5,14.2,10.9,15.4,Significant ,3,92,Severe
+GD,General Dynamics Corporation,Industrials,Aerospace & Defense,111600,35.2,9.4,6.9,18.9,Significant ,3,84,High
+GEN,Gen Digital Inc.,Technology,Software - Infrastructure,3400,16.9,3.3,5.4,8.2,Moderate ,2,17,Low
+IT,"Gartner, Inc.",Technology,Information Technology Services,20290,18.9,0.1,5.6,13.2,Low ,1,24,Low
+GRMN,Garmin Ltd,Technology,Scientific & Technical Instruments,19900,20.7,4.8,4.3,11.6,Low ,1,30,Medium
+FCX,Freeport-Mcmoran Inc.,Basic Materials,Copper,27200,31.6,15.3,6.4,10,High ,4,74,High
+BEN,"Franklin Resources, Inc.",Financial Services,Asset Management,10100,18.3,1.1,7.3,9.9,Moderate ,2,22,Low
+FTV,Fortive Corporation,Technology,Scientific & Technical Instruments,18000,34.8,16.1,4.7,14,Low ,1,83,High
+FTNT,"Fortinet, Inc.",Technology,Software - Infrastructure,13522,18.9,2.5,6.4,10,Low ,1,24,Low
+F,Ford Motor Company,Consumer Cyclical,Auto Manufacturers,177000,22.4,7.4,8.5,6.4,Significant ,3,37,Medium
+FMC,Fmc Corporation,Basic Materials,Agricultural Inputs,6200,30.7,14.4,7.5,8.9,Low ,1,72,High
+FI,"Fiserv, Inc.",Technology,Information Technology Services,42000,19.6,4.1,6.8,8.7,Moderate ,2,27,Low
+FE,Firstenergy Corp.,Utilities,Utilities - Regulated Electric,12042,25.6,10.8,5.8,9,Significant ,3,51,Medium
+FITB,Fifth Third Bancorp,Financial Services,Banks - Regional,18657,16.8,1.2,7.5,8.1,Moderate ,2,17,Low
+FIS,"Fidelity National Information Services, Inc.",Technology,Information Technology Services,60000,17.5,4.1,5.2,8.2,Low ,1,19,Low
+FDX,Fedex Corporation,Industrials,Integrated Freight & Logistics,328000,19.7,5.7,5.6,8.4,Moderate ,2,27,Low
+FRT,Federal Realty Investment Trust,Real Estate,REIT - Retail,297,12.4,2.3,5.8,4.3,Low ,1,4,Low
+FAST,Fastenal Co,Industrials,Industrial Distribution,20935,24.7,9.3,7.1,8.3,Moderate ,2,48,Medium
+FDS,Factset Research Systems,Financial Services,Financial Data & Stock Exchanges,12279,18.4,4.3,5.3,8.8,Low ,1,22,Low
+FFIV,"F5, Inc.",Technology,Software - Infrastructure,6077,17.1,4.1,5.4,7.6,Low ,1,18,Low
+XOM,Exxon Mobil Corporation,Energy,Oil & Gas Integrated,62000,41.6,23.1,8.5,10,Significant ,3,93,Severe
+EXR,"Extra Space Storage, Inc.",Real Estate,REIT - Industrial,7618,15.2,4.2,7.3,3.7,Low ,1,12,Low
+EXPD,"Expeditors International of Washington, Inc.",Industrials,Integrated Freight & Logistics,18403,16.6,4.2,4.8,7.6,Moderate ,2,16,Low
+EXPE,"Expedia Group, Inc.",Consumer Cyclical,Travel Services,17100,27.6,4.3,10.1,13.3,Moderate ,2,60,Medium
+EXC,Exelon Corporation,Utilities,Utilities - Regulated Electric,19962,22.9,7.4,6.4,9.1,Significant ,3,39,Medium
+ES,Eversource Energy,Utilities,Utilities - Regulated Electric,10000,18.6,4.7,5.4,8.6,Moderate ,2,23,Low
+EG,"Everest Group, Ltd.",Financial Services,Insurance - Reinsurance,2844,18,1.4,9.9,6.7,Low ,1,20,Low
+ESS,"Essex Property Trust, Inc",Real Estate,REIT - Residential,1747,12.4,3.5,6.1,2.8,Low ,1,6,Low
+EQR,Equity Residential,Real Estate,REIT - Residential,2400,11.9,3,6.1,2.9,Low ,1,5,Low
+EQIX,"Equinix, Inc. Reit",Real Estate,REIT - Specialty,13354,13.9,3.4,5.1,5.3,Low ,1,9,Low
+EFX,"Equifax, Incorporated",Industrials,Consulting Services,15000,23.2,0.1,6.8,16.3,Significant ,3,41,Medium
+EQT,Eqt Corp,Energy,Oil & Gas E&P,881,35.7,17.7,7.9,10.1,Low ,1,85,High
+EOG,"Eog Resources, Inc.",Energy,Oil & Gas E&P,3050,34.2,20.2,7.3,6.7,Low ,1,81,High
+ETR,Entergy Corporation,Utilities,Utilities - Regulated Electric,12000,26.7,14,5.3,7.3,Moderate ,2,56,Medium
+EMR,Emerson Electric Co.,Industrials,Specialty Industrial Machinery,67000,28.4,8.8,6.6,13.1,Low ,1,62,Medium
+LLY,Eli Lilly & Co.,Healthcare,Drug Manufacturers - General,43000,24.3,2.5,9.1,12.6,Moderate ,2,46,Medium
+ELV,"Elevance Health, Inc.",Healthcare,Healthcare Plans,104900,11.4,0.1,5.3,6,Moderate ,2,4,Low
+EA,Electronic Arts Inc,Communication Services,Electronic Gaming & Multimedia,13700,13.3,0.1,4.7,8.4,Moderate ,2,7,Low
+EW,Edwards Lifesciences Corp,Healthcare,Medical Devices,19800,18.6,2.9,7.6,8.1,Low ,1,23,Low
+EIX,Edison International,Utilities,Utilities - Regulated Electric,13003,27.5,11,5.1,11.4,Significant ,3,59,Medium
+ECL,"Ecolab, Inc.",Basic Materials,Specialty Chemicals,48000,19.9,8.5,5.3,6.1,Moderate ,2,27,Low
+EBAY,Ebay Inc,Consumer Cyclical,Internet Retail,12300,17.6,2.7,7.2,7.7,Moderate ,2,19,Low
+ETN,"Eaton Corporation, Plcs",Industrials,Specialty Industrial Machinery,94000,17.9,5.5,5.7,6.8,Low ,1,20,Low
+DD,"Dupont De Nemours, Inc.",Basic Materials,Specialty Chemicals,24000,28.6,14.7,5.9,8,Significant ,3,63,Medium
+DUK,Duke Energy Corporation,Utilities,Utilities - Regulated Electric,27037,27,11.5,4.8,10.7,Moderate ,2,57,Medium
+DTE,Dte Energy Company,Utilities,Utilities - Regulated Electric,9608,29.8,15,4.7,10,Moderate ,2,68,Medium
+DOV,Dover Corporation,Industrials,Specialty Industrial Machinery,25000,25.9,8,5.4,12.5,Low ,1,53,Medium
+D,"Dominion Energy, Inc",Utilities,Utilities - Regulated Electric,17700,26.4,11.9,5.6,8.8,Moderate ,2,55,Medium
+DLTR,Dollar Tree Inc.,Consumer Defensive,Discount Stores,65894,20.1,3.3,4,12.8,Moderate ,2,28,Medium
+DG,Dollar General Corp.,Consumer Defensive,Discount Stores,185800,17.6,3.5,5.5,8.6,Moderate ,2,19,Low
+DFS,Discover Financial Services,Financial Services,Credit Services,21100,22.5,0.1,10.5,11.9,Moderate ,2,38,Medium
+DLR,"Digital Realty Trust, Inc.",Real Estate,REIT - Specialty,3664,12.6,2.8,7,2.8,None ,,6,Low
+DXCM,"Dexcom, Inc.",Healthcare,Medical Devices,9500,24,5.3,8.1,10.6,Low ,1,45,Medium
+DVN,Devon Energy Corporation,Energy,Oil & Gas E&P,1900,33.8,17.7,7.5,8.6,Moderate ,2,80,High
+DAL,"Delta Air Lines, Inc.",Industrials,Airlines,103000,30.3,9.9,5.8,14.6,Moderate ,2,70,High
+DE,Deere & Company,Industrials,Farm & Heavy Construction Machinery,83000,20,2.7,6.5,10.8,Moderate ,2,28,Low
+DHR,Danaher Corporation,Healthcare,Diagnostics & Research,61000,11.9,1.4,5.3,5.2,Moderate ,2,5,Low
+DHI,D.R. Horton Inc.,Consumer Cyclical,Residential Construction,13450,21,8.7,5.7,6.7,Moderate ,2,32,Medium
+CVS,Cvs Health Corporation,Healthcare,Healthcare Plans,219000,22,0,6.2,15.8,Significant ,3,36,Medium
+CMI,Cummins Inc.,Industrials,Specialty Industrial Machinery,75500,19.3,5.6,5.9,7.7,Moderate ,2,25,Low
+CSX,Csx Corporation,Industrials,Railroads,23400,21.9,7,4.8,10,Moderate ,2,36,Medium
+CCI,Crown Castle Inc.,Real Estate,REIT - Specialty,4700,10.1,4.1,4.3,1.7,None ,,3,Low
+CTRA,Coterra Energy Inc.,Energy,Oil & Gas E&P,894,36.1,20.3,7.5,8.3,Moderate ,2,86,High
+COST,Costco Wholesale Corp,Consumer Defensive,Discount Stores,316000,23.3,6.5,5.6,11.2,Significant ,3,41,Medium
+CSGP,Costar Group Inc,Real Estate,Real Estate Services,6152,21.9,4.9,7.7,9.3,Low ,1,36,Medium
+GLW,Corning Incorporated,Technology,Electronic Components,49800,16.5,5.5,6.1,4.8,Moderate ,2,16,Low
+CPRT,Copart Inc,Industrials,Specialty Business Services,12000,16,1.5,5.6,9,Low ,1,14,Low
+STZ,"Constellation Brands, Inc.",Consumer Defensive,Beverages - Wineries & Distilleries,10600,24.7,9.4,5.2,10,Moderate ,2,48,Medium
+ED,"Consolidated Edison, Inc.",Utilities,Utilities - Regulated Electric,14592,23.8,6.9,6.1,10.9,Significant ,3,44,Medium
+COP,Conocophillips,Energy,Oil & Gas E&P,10000,33.9,17.6,8.3,8.1,Moderate ,2,81,High
+CAG,"Conagra Brands, Inc.",Consumer Defensive,Packaged Foods,18600,30.8,10.7,4.7,15.4,Moderate ,2,72,High
+CMA,Comerica Incorporated,Financial Services,Banks - Regional,7619,25.2,2.5,11.7,11,Moderate ,2,50,Medium
+CL,Colgate-Palmolive Company,Consumer Defensive,Household & Personal Products,34000,26.2,8.3,6.5,11.3,Moderate ,2,54,Medium
+CTSH,Cognizant Technology Solutions,Technology,Information Technology Services,344400,14.7,1.1,5.9,7.6,Moderate ,2,10,Low
+KO,Coca-Cola Company,Consumer Defensive,Beverages - Non-Alcoholic,79100,21.6,7.2,4.9,9.5,Significant ,3,35,Medium
+CMS,Cms Energy Corporation,Utilities,Utilities - Regulated Electric,8356,21.7,9.6,5.2,6.8,Moderate ,2,35,Medium
+CME,Cme Group Inc.,Financial Services,Financial Data & Stock Exchanges,3565,17.8,2.1,9.2,6.5,Low ,1,20,Low
+CLX,Clorox Company,Consumer Defensive,Household & Personal Products,8100,21.6,7.7,5.3,8.6,Moderate ,2,35,Medium
+CFG,"Citizens Financial Group, Inc.",Financial Services,Banks - Regional,17354,23.5,2,11.4,10.1,Moderate ,2,42,Medium
+C,Citigroup Inc.,Financial Services,Banks - Diversified,237000,29.2,1.8,13.7,13.8,High ,4,66,Medium
+CSCO,"Cisco Systems, Inc.",Technology,Communication Equipment,84900,13.9,0.4,6.5,6.9,Moderate ,2,8,Low
+CTAS,Cintas Corp,Industrials,Specialty Business Services,44500,18.1,3,5.9,9.2,Moderate ,2,21,Low
+CINF,Cincinnati Financial Corp,Financial Services,Insurance - Property & Casualty,5426,25.6,1.8,12.9,11,Low ,1,52,Medium
+CHD,"Church & Dwight Co., Inc.",Consumer Defensive,Household & Personal Products,5550,19.9,6.9,6.7,6.3,Low ,1,27,Low
+CB,Chubb Limited,Financial Services,Insurance - Property & Casualty,40000,23.6,1.5,10.6,11.5,Moderate ,2,43,Medium
+CMG,"Chipotle Mexican Grill, Inc.",Consumer Cyclical,Restaurants,120000,20.7,6.8,4.3,9.6,Moderate ,2,30,Medium
+CVX,Chevron Corporation,Energy,Oil & Gas Integrated,45600,36.6,17,10.4,9.2,Significant ,3,87,High
+CHTR,Charter Comm Inc Del Cl a,Communication Services,Telecom Services,101100,24.7,6.1,7.9,10.7,Moderate ,2,48,Medium
+CF,"Cf Industries Holding, Inc.",Basic Materials,Agricultural Inputs,2700,29.3,16.2,5.4,7.7,Low ,1,66,Medium
+CNP,"Centerpoint Energy, Inc.",Utilities,Utilities - Regulated Electric,8827,28.7,12.9,5.1,10.7,Moderate ,2,64,Medium
+CNC,Centene Corporation,Healthcare,Healthcare Plans,59900,19.9,0.1,6.5,13.3,Moderate ,2,28,Low
+COR,"Cencora, Inc.",Healthcare,Medical Distribution,46000,12.8,1.6,5.7,5.5,Significant ,3,6,Low
+CE,Celanese Corporation,Basic Materials,Chemicals,12400,26.1,14.7,5.6,5.9,Moderate ,2,54,Medium
+CDW,Cdw Corporation,Technology,Information Technology Services,11400,9.2,2.5,3.5,3.2,None ,,2,Negligible
+CBRE,"Cbre Group, Inc.",Real Estate,Real Estate Services,130000,8,1.5,4.6,1.9,Low ,1,2,Negligible
+CBOE,"Cboe Global Markets, Inc.",Financial Services,Financial Data & Stock Exchanges,1647,21,2.7,10.6,7.6,Low ,1,32,Medium
+CAT,Caterpillar Inc.,Industrials,Farm & Heavy Construction Machinery,113200,36.2,10.4,8.1,17.7,High ,4,86,High
+CCL,Carnival Corporation,Consumer Cyclical,Travel Services,106000,24.5,9.4,5,10.1,Significant ,3,47,Medium
+KMX,Carmax Inc.,Consumer Cyclical,Auto & Truck Dealerships,29836,12.1,0.1,4,8,Moderate ,2,5,Low
+CAH,"Cardinal Health, Inc.",Healthcare,Medical Distribution,47040,14.9,1.2,6.4,7.3,Significant ,3,11,Low
+COF,Capital One Financial,Financial Services,Credit Services,51300,22.5,0.1,10.1,12.3,Significant ,3,38,Medium
+CPB,Campbell Soup Company,Consumer Defensive,Packaged Foods,14500,23.5,10.9,4.5,8.1,Moderate ,2,42,Medium
+CPT,Camden Property Trust,Real Estate,REIT - Residential,1640,16.1,4,8.2,3.9,Low ,1,14,Low
+CDNS,Cadence Design Systems,Technology,Software - Application,11200,12,2.3,4.8,4.9,None ,,5,Low
+CHRW,"C.H. Robinson Worldwide, Inc.",Industrials,Integrated Freight & Logistics,14990,19.3,4.7,5.3,9.3,Low ,1,26,Low
+BG,Bunge Global Sa,Consumer Defensive,Farm Products,23000,32.9,14.4,5.3,13.3,Significant ,3,78,High
+BRO,"Brown & Brown, Inc.",Financial Services,Insurance Brokers,16152,20.5,0.1,10.6,9.8,Low ,1,30,Medium
+BR,Broadridge Financial Solutions Inc,Technology,Information Technology Services,14000,16.6,4.2,4.9,7.5,Moderate ,2,16,Low
+AVGO,Broadcom Inc.,Technology,Semiconductors,20000,20,7.3,6.6,6,Significant ,3,28,Low
+BMY,Bristol-Myers Squibb Co.,Healthcare,Drug Manufacturers - General,34100,22.7,1.3,7.1,14.4,Moderate ,2,39,Medium
+BSX,Boston Scientific Corp.,Healthcare,Medical Devices,48000,23.1,2.4,8.9,11.9,Moderate ,2,41,Medium
+BXP,"Boston Properties, Inc.",Real Estate,REIT - Office,836,12.5,2.5,5.4,4.5,Low ,1,6,Low
+BWA,Borgwarner Inc.,Consumer Cyclical,Auto Parts,39900,12.6,2.7,5.7,4.2,Moderate ,2,6,Low
+BKNG,Booking Holdings Inc.,Consumer Cyclical,Travel Services,24000,19.2,1,8.1,10.1,Significant ,3,25,Low
+BA,Boeing Company,Industrials,Aerospace & Defense,171000,39.6,8.8,8.3,22.5,High ,4,91,High
+BX,Blackstone Inc.,Financial Services,Asset Management,4735,23.4,2.5,11.3,9.6,Moderate ,2,42,Medium
+BLK,"Blackrock, Inc.",Financial Services,Asset Management,19300,18.3,0.9,10,7.4,Moderate ,2,21,Low
+BIIB,Biogen Inc.,Healthcare,Drug Manufacturers - General,7570,22.2,0.4,7.4,14.5,Significant ,3,37,Medium
+BIO,"Bio-Rad Laboratories, Inc.Class A",Healthcare,Medical Devices,8000,17.4,1.2,7,9.2,Low ,1,18,Low
+BBY,"Best Buy Company, Inc.",Consumer Cyclical,Specialty Retail,85000,15.9,2.4,4.4,9.1,Moderate ,2,14,Low
+BRK-B,Berkshire Hathaway Class B,Financial Services,Insurance - Diversified,396500,20.7,1,14.8,4.9,Low ,1,30,Medium
+BDX,"Becton, Dickinson and Co.",Healthcare,Medical Instruments & Supplies,70000,23.8,3,7.1,13.6,Significant ,3,44,Medium
+BAX,Baxter International Inc.,Healthcare,Medical Instruments & Supplies,60000,23.6,2.8,7.1,13.6,Significant ,3,43,Medium
+BBWI,"Bath & Body Works, Inc.",Consumer Cyclical,Specialty Retail,8981,28.3,12.2,5.9,10.3,Moderate ,2,62,Medium
+BK,Bank of New York Mellon Corporation,Financial Services,Asset Management,52100,20.9,1.1,9.9,9.9,Moderate ,2,31,Medium
+BAC,Bank of America Corporation,Financial Services,Banks - Diversified,212000,28.3,1.7,11.5,15.1,Significant ,3,62,Medium
+BALL,Ball Corporation,Consumer Cyclical,Packaging & Containers,16000,12.1,7.6,3.7,0.8,Moderate ,2,5,Low
+AVY,Avery Dennison Corp.,Consumer Cyclical,Packaging & Containers,35000,16.1,11.4,3.7,0.9,Low ,1,14,Low
+AVB,"Avalonbay Communities, Inc.",Real Estate,REIT - Residential,2978,9.8,3,4.8,2,Low ,1,3,Negligible
+AZO,"Autozone, Inc.",Consumer Cyclical,Specialty Retail,71400,11,0.1,3.8,7.1,Moderate ,2,4,Low
+ADP,Automatic Data Processing,Industrials,Staffing & Employment Services,63000,13.8,2.8,5.5,5.5,Low ,1,8,Low
+ADSK,Autodesk Inc,Technology,Software - Application,,16.8,3.7,4.9,8.2,None ,,16,Low
+ATO,Atmos Energy Corporation,Utilities,Utilities - Regulated Gas,5019,34.6,14.8,6.4,13.4,Moderate ,2,83,High
+T,At&t Inc.,Communication Services,Telecom Services,148290,23.9,3.3,6.7,13.9,Significant ,3,44,Medium
+AIZ,"Assurant, Inc.",Financial Services,Insurance - Specialty,13600,24.1,1.6,11.7,10.8,Moderate ,2,45,Medium
+AJG,Arthur J. Gallagher & Co.,Financial Services,Insurance Brokers,49821,21.2,0.1,10.1,10.9,Moderate ,2,33,Medium
+ANET,Arista Networks,Technology,Computer Hardware,4023,16.7,0.4,7.4,8.9,Low ,1,16,Low
+ADM,Archer Daniels Midland Company,Consumer Defensive,Farm Products,40213,31.8,16.6,5,10.1,Significant ,3,75,High
+ACGL,Arch Capital Group Ltd,Financial Services,Insurance - Diversified,6400,22.5,1.5,10.9,10.1,Moderate ,2,38,Medium
+APTV,Aptiv Plc,Consumer Cyclical,Auto Parts,154000,10.7,1.5,5.3,3.9,Low ,1,3,Low
+AMAT,Applied Materials Inc,Technology,Semiconductor Equipment & Materials,34800,12.7,4.5,5.3,3,Low ,1,6,Low
+AAPL,Apple Inc.,Technology,Consumer Electronics,150000,17.2,0.5,9.4,7.4,Significant ,3,18,Low
+APA,Apa Corporation,Energy,Oil & Gas E&P,2271,38.8,22,8,8.9,Moderate ,2,83,High
+ANSS,Ansys Inc,Technology,Software - Application,6200,15.9,3.5,5.1,7.3,None ,,14,Low
+ADI,"Analog Devices, Inc.",Technology,Semiconductors,26000,22.9,9.3,7,6.7,Low ,1,40,Medium
+APH,Amphenol Corporation,Technology,Electronic Components,95000,19.6,7.3,7.6,4.6,Moderate ,2,26,Low
+AMGN,Amgen Inc,Healthcare,Drug Manufacturers - General,26700,22,0.7,7.8,13.5,Significant ,3,36,Medium
+AME,"Ametek, Inc.",Industrials,Specialty Industrial Machinery,21500,23.9,8.6,6.7,8.5,Low ,1,44,Medium
+AMP,"Ameriprise Financial, Inc.",Financial Services,Asset Management,13800,20.3,2.1,10.3,7.8,Moderate ,2,29,Medium
+AWK,"American Water Works Company, Inc",Utilities,Utilities - Regulated Water,6500,21.6,9,5,7.6,Low ,1,34,Medium
+AMT,American Tower Corporation,Real Estate,REIT - Specialty,5643,10.9,2.9,5.2,2.8,Low ,1,4,Low
+AIG,"American International Group, Inc.",Financial Services,Insurance - Diversified,25000,24.2,1.6,12.9,9.7,Moderate ,2,46,Medium
+AXP,American Express Company,Financial Services,Credit Services,74600,18.6,0.1,9.7,8.9,Moderate ,2,23,Low
+AEP,"American Electric Power Company, Inc.",Utilities,Utilities - Regulated Electric,16800,26.1,12.7,5.4,8.1,Moderate ,2,54,Medium
+AAL,American Airlines Group Inc.,Industrials,Airlines,132800,26.4,9.9,4.8,11.6,Moderate ,2,54,Medium
+AEE,Ameren Corporation,Utilities,Utilities - Regulated Electric,9372,27.2,12.9,5.3,9.1,Moderate ,2,58,Medium
+AMZN,Amazon.com Inc,Consumer Cyclical,Internet Retail,1525000,30.6,6,9.2,15.4,Significant ,3,71,High
+MO,"Altria Group, Inc.",Consumer Defensive,Tobacco,6400,31.3,6.1,7.6,17.6,Significant ,3,74,High
+GOOGL,Alphabet Inc. Class A,Communication Services,Internet Content & Information,180895,24.2,1.6,11.5,11.2,High ,4,46,Medium
+LNT,Alliant Energy Corporation,Utilities,Utilities - Regulated Electric,3281,21.4,8.5,6.3,6.6,None ,,33,Medium
+ALLE,Allegion Public Limited Company,Industrials,Security & Protection Services,12200,21.8,10.9,5,5.8,None ,,35,Medium
+ARE,"Alexandria Real Estate Equities, Inc.",Real Estate,REIT - Office,568,13.9,3.9,6.3,3.7,None ,,9,Low
+ALB,Albemarle Corporation,Basic Materials,Specialty Chemicals,9000,26.6,15.4,6.3,4.8,Moderate ,2,55,Medium
+AKAM,Akamai Technologies Inc,Technology,Software - Infrastructure,10250,17,3,6.9,7.1,Low ,1,17,Low
+APD,"Air Products & Chemicals, Inc.",Basic Materials,Specialty Chemicals,23000,12.3,7.4,3.3,1.5,Low ,1,5,Low
+A,Agilent Technologies Inc.,Healthcare,Diagnostics & Research,18000,13.6,1.1,6.1,6.4,Moderate ,2,8,Low
+AFL,Aflac Inc.,Financial Services,Insurance - Life,12785,18.3,0.3,8.9,9.1,Low ,1,22,Low
+AES,Aes Corporation,Utilities,Utilities - Diversified,9600,26.7,13.3,5.3,8.2,Moderate ,2,56,Medium
+ADBE,Adobe Inc.,Technology,Software - Infrastructure,29945,13.1,1.9,5.2,6,Moderate ,2,7,Low
+ACN,Accenture Plc,Technology,Information Technology Services,742000,9.8,0.8,4.4,4.6,Moderate ,2,3,Negligible
+ABBV,Abbvie Inc.,Healthcare,Drug Manufacturers - General,50000,29.9,2.4,10.4,17.2,Significant ,3,69,Medium
+ABT,Abbott Laboratories,Healthcare,Medical Devices,114000,24.8,2.3,8.3,14.2,Significant ,3,48,Medium
+AOS,A.O. Smith Corporation,Industrials,Specialty Industrial Machinery,12000,25.4,7.2,6.4,11.9,Low ,1,51,Medium
+MMM,3m Company,Industrials,Conglomerates,85000,37.3,17.2,6.5,13.6,Severe ,5,89,High
