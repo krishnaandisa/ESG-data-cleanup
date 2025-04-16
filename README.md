@@ -1,2 +1,2 @@
 # ESG-data-cleanup
-A data cleaning project using an ESG risk score data set from kaggle user Pritish Dugar. 
+A data cleaning project using an ESG risk score data set from Kaggle user Pritish Dugar. The initial data was imported to PostgreSQL, with all values imported as text to enable the many different types of values to be imported. The comprehensive dataset provides a clear view into the risk profiles of various companies in the S&P 500. However, the dataset also contains several issues with data formats, representation of NULL values, and columns that do not meaningfully contribute to the analysis. As such, the dataset needed to be cleaned up in PostgreSQL in order to be analysed properly. 
